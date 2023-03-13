@@ -1,6 +1,6 @@
 
 # Hi, I'm Kjartan! 👋
-I'm a home grown developer, excited about pushing technology to its limits. 🏔️
+I'm a home grown developer **(full-stack 😴)**, excited about pushing technology to its limits. 🏔️
 
 **Creating** and curating the **next-gen** developer gene 🧬
 
